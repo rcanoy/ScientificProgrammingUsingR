@@ -1,4 +1,8 @@
 ## CHAP 2: Exercises
+## ------------------------------------------------
+## Author: Raymart Jay Canoy
+## Last edit: 28 May 2023
+## ------------------------------------------------
 
 ## 2. Give R expressions that return the following
 # matrices and vectors
